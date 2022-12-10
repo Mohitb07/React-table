@@ -1,10 +1,10 @@
 // FIXME: Update this configuration file based on your project information
 
 export const AppConfig = {
-    site_name: 'FaceSmash',
-    title: 'FaceSmash',
+    site_name: 'React-Table',
+    title: 'React-Table',
     description:
-      "It's a social media platform for users to interact with their friends",
+      "It's an internship assignment",
     locale: 'en',
   };
   
